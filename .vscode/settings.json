@@ -1,0 +1,10 @@
+{
+    "notebook.kernelProviderAssociations": [
+
+    ],
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "ruby": "html"
+    }
+}
+
